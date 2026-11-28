@@ -1,0 +1,8 @@
+{
+  "versionCode": 101,
+  "versionName": "1.0.101",
+  "installer": "BlindStreets-Kurulum.exe",
+  "installer_url": "https://github.com/metinynci0-pixel/blind-streets-indir/releases/download/pc-son-surum/BlindStreets-Kurulum.exe",
+  "installer_size": 172804583,
+  "installer_sha256": "f667f7a865c087ecc90b0eb1ef111636d3ee6745c669732ff98b5629c2c10ae6"
+}
